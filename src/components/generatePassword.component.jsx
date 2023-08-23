@@ -93,7 +93,7 @@ const GeneratePasswordComponent = ({
         <div className="flex items-center gap-5 w-full">
           <button
             onClick={generatePassword}
-            className="w-full bg-blue-500 px-2 md:px-5 py-1 md:py-2 bg-[#ff7900] text-white rounded hover:bg-[#ff9100] font-bold"
+            className="w-full px-2 md:px-5 py-1 md:py-2 bg-[#ff7900] text-white rounded hover:bg-[#ff9100] font-bold"
           >
             Generate
           </button>
